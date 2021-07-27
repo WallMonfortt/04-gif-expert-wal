@@ -10,8 +10,8 @@
     "index.html": "/index.html",
     "static/css/main.d2c1b40d.chunk.css.map": "/static/css/main.d2c1b40d.chunk.css.map",
     "static/js/2.6fed5b70.chunk.js.LICENSE.txt": "/static/js/2.6fed5b70.chunk.js.LICENSE.txt",
-    "static/media/WM2.d9f62e77.png": "/static/media/WM2.d9f62e77.png",
-    "static/media/WMonf.abd7b505.png": "/static/media/WMonf.abd7b505.png"
+    "static/media/WM2.d9f62e77.png": "./static/media/WM2.d9f62e77.png",
+    "static/media/WMonf.abd7b505.png": "./static/media/WMonf.abd7b505.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5d900773.js",
