@@ -2,6 +2,7 @@ import React from 'react'
 import { useState } from "react";
 import { AddCategory } from './components/AddCategory';
 import {GifGrid} from './components/GifGrid'
+import MainHeader from './components/MainHeader';
 
 
 
@@ -10,7 +11,7 @@ const GifExpertApp = () => {
   
   return (
     <div>
-      <h2>GifExpertApp</h2>
+      <MainHeader />
       <AddCategory setCategory = { setCategory } />
       <hr />
 

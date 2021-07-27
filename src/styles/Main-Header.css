@@ -1,0 +1,22 @@
+.Main-Header{
+  align-items: center;
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 0 auto;
+  height: 90px;
+  padding: 30px;
+  position: relative;
+}
+
+.logos{
+  display: flex;
+  align-items: center;
+}
+
+.tittle{
+  color: #eedc3a;
+  font-size: 3.5rem;
+  width: -webkit-fill-available;
+  text-align: center;
+  margin-top: 10px;
+}
